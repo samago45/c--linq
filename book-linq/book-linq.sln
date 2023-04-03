@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "book-linq", "book-linq.csproj", "{D5B2BF70-FB18-4B90-B7AD-1B6E82BD61A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{B7905E32-4684-4234-9247-80FB1FD9FF51}"
+	ProjectSection(SolutionItems) = preProject
+		books.json = books.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entity", "Entity", "{DFF0E21E-5B53-4F09-8AF5-22C3CC72579A}"
+	ProjectSection(SolutionItems) = preProject
+		Book.cs = Book.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{69743D52-E962-4C30-B877-D56B29DE714D}"
+	ProjectSection(SolutionItems) = preProject
+		books.json = books.json
+		LinqQueries.cs = LinqQueries.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B2BF70-FB18-4B90-B7AD-1B6E82BD61A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B2BF70-FB18-4B90-B7AD-1B6E82BD61A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B2BF70-FB18-4B90-B7AD-1B6E82BD61A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B2BF70-FB18-4B90-B7AD-1B6E82BD61A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EACA84ED-10BA-4EFF-9589-16AB2F375064}
+	EndGlobalSection
+EndGlobal

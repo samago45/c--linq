@@ -1,0 +1,15 @@
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\bin\Debug\net6.0\book-linq.exe
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\bin\Debug\net6.0\book-linq.deps.json
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\bin\Debug\net6.0\book-linq.runtimeconfig.json
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\bin\Debug\net6.0\book-linq.dll
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\bin\Debug\net6.0\book-linq.pdb
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\obj\Debug\net6.0\book-linq.csproj.AssemblyReference.cache
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\obj\Debug\net6.0\book-linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\obj\Debug\net6.0\book-linq.AssemblyInfoInputs.cache
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\obj\Debug\net6.0\book-linq.AssemblyInfo.cs
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\obj\Debug\net6.0\book-linq.csproj.CoreCompileInputs.cache
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\obj\Debug\net6.0\book-linq.dll
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\obj\Debug\net6.0\refint\book-linq.dll
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\obj\Debug\net6.0\book-linq.pdb
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\obj\Debug\net6.0\book-linq.genruntimeconfig.cache
+E:\OneDrive - fiuni.edu.py\Desarrollo\.Net\LINQ\book-linq\obj\Debug\net6.0\ref\book-linq.dll
